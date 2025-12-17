@@ -1,0 +1,16 @@
+2025-11-25 13:05:57.865 (26180) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-25 13:05:57.865 (26180) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-25 13:05:57.865 (26180) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-25 13:06:00.588 (26180) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-25 13:06:03.441 (26180) (INFO) MainThread.<module> -> Training shape: X:(15609, 168, 321) Y:(15609, 321)
+2025-11-25 13:06:03.442 (26180) (INFO) MainThread.<module> -> Validation shape: X:(5261, 168, 321) Y:(5261, 321)
+2025-11-25 13:06:03.444 (26180) (INFO) MainThread.<module> -> Testing shape: X:(5261, 168, 321) Y:(5261, 321)
+2025-11-25 13:06:03.444 (26180) (INFO) MainThread.<module> -> Creating model
+2025-11-25 13:06:03.899 (26180) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-25 13:06:03.899 (26180) (INFO) MainThread.<module> -> Training model ... 
+2025-11-25 13:24:38.74 (26180) (INFO) MainThread.train -> Training time took: 0:18:34.161197
+2025-11-25 13:24:38.107 (26180) (INFO) MainThread.SaveModel -> Saving model and weights ...
+2025-11-25 13:24:38.475 (26180) (INFO) MainThread.SaveResults -> Saving results ...
+2025-11-25 13:24:38.489 (26180) (INFO) MainThread.SaveHistory ->  Saving history ...
+2025-11-25 13:24:38.494 (26180) (INFO) MainThread.<module> -> Validation on the validation set returned: Loss:0.054866, RSE:0.449026, Correlation:nan
+2025-11-25 13:25:00.70 (26180) (INFO) MainThread.<module> -> Validation on the test set returned: Loss:0.056476, RSE:0.435131, Correlation:nan

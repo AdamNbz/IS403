@@ -1,0 +1,129 @@
+2025-11-09 21:45:52.127 (25080) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 21:45:52.128 (25080) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 21:45:52.128 (25080) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 21:45:55.85 (25080) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 21:46:07.568 (25080) (INFO) MainThread.<module> -> Training shape: X:(15591, 168, 321) Y:(15591, 321)
+2025-11-09 21:46:07.582 (25080) (INFO) MainThread.<module> -> Validation shape: X:(5261, 168, 321) Y:(5261, 321)
+2025-11-09 21:46:07.583 (25080) (INFO) MainThread.<module> -> Testing shape: X:(5261, 168, 321) Y:(5261, 321)
+2025-11-09 21:46:07.583 (25080) (INFO) MainThread.<module> -> Creating model
+2025-11-09 21:46:09.459 (25080) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-09 21:46:09.460 (25080) (INFO) MainThread.<module> -> Training model ... 
+2025-11-09 22:23:38.434 (25284) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 22:23:38.434 (25284) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 22:23:38.434 (25284) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 22:23:44.889 (25284) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 22:23:58.921 (25284) (INFO) MainThread.<module> -> Training shape: X:(15591, 168, 321) Y:(15591, 321)
+2025-11-09 22:23:58.947 (25284) (INFO) MainThread.<module> -> Validation shape: X:(5261, 168, 321) Y:(5261, 321)
+2025-11-09 22:23:58.947 (25284) (INFO) MainThread.<module> -> Testing shape: X:(5261, 168, 321) Y:(5261, 321)
+2025-11-09 22:23:58.948 (25284) (INFO) MainThread.<module> -> Creating model
+2025-11-09 22:24:00.166 (25284) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-09 22:24:00.168 (25284) (INFO) MainThread.<module> -> Training model ... 
+2025-11-09 22:41:58.872 (19836) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 22:41:58.873 (19836) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 22:41:58.873 (19836) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 22:42:01.672 (19836) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 22:42:10.224 (19836) (INFO) MainThread.<module> -> Training shape: X:(15591, 168, 321) Y:(15591, 321)
+2025-11-09 22:42:10.258 (19836) (INFO) MainThread.<module> -> Validation shape: X:(5261, 168, 321) Y:(5261, 321)
+2025-11-09 22:42:10.258 (19836) (INFO) MainThread.<module> -> Testing shape: X:(5261, 168, 321) Y:(5261, 321)
+2025-11-09 22:42:10.260 (19836) (INFO) MainThread.<module> -> Creating model
+2025-11-09 22:42:12.279 (19836) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-09 22:42:12.283 (19836) (INFO) MainThread.<module> -> Training model ... 
+2025-11-09 23:34:42.141 (21076) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 23:34:42.142 (21076) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 23:34:42.142 (21076) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 23:34:42.248 (21076) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 23:34:42.303 (21076) (INFO) MainThread.<module> -> Training shape: X:(4373, 168, 8) Y:(4373, 8)
+2025-11-09 23:34:42.304 (21076) (INFO) MainThread.<module> -> Validation shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:34:42.305 (21076) (INFO) MainThread.<module> -> Testing shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:34:42.305 (21076) (INFO) MainThread.<module> -> Load model from save/exchange_rate/exchange_rate
+2025-11-09 23:34:42.305 (21076) (INFO) MainThread.LoadModel -> Loading model and weights ...
+2025-11-09 23:34:42.305 (21076) (CRITICAL) MainThread.LoadModel -> File save/exchange_rate/exchange_rate.json does not exist
+2025-11-09 23:34:42.306 (21076) (CRITICAL) MainThread.<module> -> Model could not be loaded or created ... exiting!!
+2025-11-09 23:35:12.129 (16572) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 23:35:12.130 (16572) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 23:35:12.130 (16572) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 23:35:12.178 (16572) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 23:35:12.199 (16572) (INFO) MainThread.<module> -> Training shape: X:(4373, 168, 8) Y:(4373, 8)
+2025-11-09 23:35:12.199 (16572) (INFO) MainThread.<module> -> Validation shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:35:12.199 (16572) (INFO) MainThread.<module> -> Testing shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:35:12.199 (16572) (INFO) MainThread.<module> -> Load model from save/exchange_rate
+2025-11-09 23:35:12.199 (16572) (INFO) MainThread.LoadModel -> Loading model and weights ...
+2025-11-09 23:35:12.561 (16572) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-09 23:35:13.555 (16572) (INFO) MainThread.<module> -> Validation on the validation set returned: Loss:0.027966, RSE:0.356596, Correlation:-0.034886
+2025-11-09 23:35:13.556 (16572) (INFO) MainThread.<module> -> Predict training data
+2025-11-09 23:35:16.62 (16572) (INFO) MainThread.<module> -> Predict validation data
+2025-11-09 23:35:16.923 (16572) (INFO) MainThread.<module> -> Predict testing data
+2025-11-09 23:35:17.810 (16572) (INFO) MainThread.PlotPrediction -> Plotting Prediction ...
+2025-11-09 23:35:17.810 (16572) (WARNING) MainThread.PlotPrediction -> The series to plot must be an integer in the range [0,8[. Setting it to 0
+2025-11-09 23:35:17.810 (16572) (WARNING) MainThread.PlotPrediction -> start must be an integer less than 7588. Setting it to 0
+2025-11-09 23:35:17.810 (16572) (WARNING) MainThread.PlotPrediction -> end must be an integer in the range ]0,7588[. Setting it to 7587
+2025-11-09 23:41:35.2 (14456) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 23:41:35.2 (14456) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 23:41:35.2 (14456) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 23:41:35.54 (14456) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 23:41:35.87 (14456) (INFO) MainThread.<module> -> Training shape: X:(4373, 168, 8) Y:(4373, 8)
+2025-11-09 23:41:35.87 (14456) (INFO) MainThread.<module> -> Validation shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:41:35.87 (14456) (INFO) MainThread.<module> -> Testing shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:41:35.87 (14456) (INFO) MainThread.<module> -> Load model from save/exchange_rate
+2025-11-09 23:41:35.90 (14456) (INFO) MainThread.LoadModel -> Loading model and weights ...
+2025-11-09 23:41:35.450 (14456) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-09 23:41:36.519 (14456) (INFO) MainThread.<module> -> Validation on the validation set returned: Loss:0.027966, RSE:0.356596, Correlation:-0.034886
+2025-11-09 23:41:36.519 (14456) (INFO) MainThread.<module> -> Predict training data
+2025-11-09 23:41:39.200 (14456) (INFO) MainThread.<module> -> Predict validation data
+2025-11-09 23:41:40.169 (14456) (INFO) MainThread.<module> -> Predict testing data
+2025-11-09 23:41:41.108 (14456) (INFO) MainThread.PlotPrediction -> Plotting Prediction ...
+2025-11-09 23:41:41.109 (14456) (WARNING) MainThread.PlotPrediction -> The series to plot must be an integer in the range [0,8[. Setting it to 0
+2025-11-09 23:41:41.109 (14456) (WARNING) MainThread.PlotPrediction -> start must be an integer less than 7588. Setting it to 0
+2025-11-09 23:41:41.109 (14456) (WARNING) MainThread.PlotPrediction -> end must be an integer in the range ]0,7588[. Setting it to 7587
+2025-11-09 23:42:44.367 (23948) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 23:42:44.367 (23948) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 23:42:44.367 (23948) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 23:42:44.415 (23948) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 23:42:44.436 (23948) (INFO) MainThread.<module> -> Training shape: X:(4373, 168, 8) Y:(4373, 8)
+2025-11-09 23:42:44.436 (23948) (INFO) MainThread.<module> -> Validation shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:42:44.436 (23948) (INFO) MainThread.<module> -> Testing shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:42:44.436 (23948) (INFO) MainThread.<module> -> Load model from save/exchange_rate
+2025-11-09 23:42:44.436 (23948) (INFO) MainThread.LoadModel -> Loading model and weights ...
+2025-11-09 23:42:44.770 (23948) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-09 23:42:45.820 (23948) (INFO) MainThread.<module> -> Validation on the validation set returned: Loss:0.027966, RSE:0.356596, Correlation:-0.034886
+2025-11-09 23:42:45.820 (23948) (INFO) MainThread.<module> -> Predict training data
+2025-11-09 23:42:48.386 (23948) (INFO) MainThread.<module> -> Predict validation data
+2025-11-09 23:42:49.231 (23948) (INFO) MainThread.<module> -> Predict testing data
+2025-11-09 23:42:50.84 (23948) (INFO) MainThread.PlotPrediction -> Plotting Prediction ...
+2025-11-09 23:42:50.84 (23948) (WARNING) MainThread.PlotPrediction -> The series to plot must be an integer in the range [0,8[. Setting it to 0
+2025-11-09 23:42:50.84 (23948) (WARNING) MainThread.PlotPrediction -> start must be an integer less than 7588. Setting it to 0
+2025-11-09 23:42:50.84 (23948) (WARNING) MainThread.PlotPrediction -> end must be an integer in the range ]0,7588[. Setting it to 7587
+2025-11-09 23:43:43.491 (25544) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 23:43:43.491 (25544) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 23:43:43.491 (25544) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 23:43:43.537 (25544) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 23:43:43.558 (25544) (INFO) MainThread.<module> -> Training shape: X:(4373, 168, 8) Y:(4373, 8)
+2025-11-09 23:43:43.558 (25544) (INFO) MainThread.<module> -> Validation shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:43:43.559 (25544) (INFO) MainThread.<module> -> Testing shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:43:43.559 (25544) (INFO) MainThread.<module> -> Load model from save/exchange_rate
+2025-11-09 23:43:43.559 (25544) (INFO) MainThread.LoadModel -> Loading model and weights ...
+2025-11-09 23:43:43.882 (25544) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-09 23:43:44.871 (25544) (INFO) MainThread.<module> -> Validation on the validation set returned: Loss:0.027966, RSE:0.356596, Correlation:-0.034886
+2025-11-09 23:43:44.871 (25544) (INFO) MainThread.<module> -> Predict training data
+2025-11-09 23:43:47.367 (25544) (INFO) MainThread.<module> -> Predict validation data
+2025-11-09 23:43:48.211 (25544) (INFO) MainThread.<module> -> Predict testing data
+2025-11-09 23:43:49.59 (25544) (INFO) MainThread.PlotPrediction -> Plotting Prediction ...
+2025-11-09 23:43:49.59 (25544) (WARNING) MainThread.PlotPrediction -> The series to plot must be an integer in the range [0,8[. Setting it to 0
+2025-11-09 23:43:59.388 (26016) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-09 23:43:59.389 (26016) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-09 23:43:59.389 (26016) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-09 23:43:59.435 (26016) (INFO) MainThread.split_data -> Splitting data into training set (0.60), validation set (0.20) and testing set (0.20)
+2025-11-09 23:43:59.456 (26016) (INFO) MainThread.<module> -> Training shape: X:(4373, 168, 8) Y:(4373, 8)
+2025-11-09 23:43:59.456 (26016) (INFO) MainThread.<module> -> Validation shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:43:59.456 (26016) (INFO) MainThread.<module> -> Testing shape: X:(1518, 168, 8) Y:(1518, 8)
+2025-11-09 23:43:59.456 (26016) (INFO) MainThread.<module> -> Load model from save/exchange_rate
+2025-11-09 23:43:59.456 (26016) (INFO) MainThread.LoadModel -> Loading model and weights ...
+2025-11-09 23:43:59.781 (26016) (INFO) MainThread.<module> -> Model compiled ... No tensorboard visualisation is available
+2025-11-09 23:44:00.766 (26016) (INFO) MainThread.<module> -> Validation on the validation set returned: Loss:0.027966, RSE:0.356596, Correlation:-0.034886
+2025-11-09 23:44:00.766 (26016) (INFO) MainThread.<module> -> Predict training data
+2025-11-09 23:44:03.305 (26016) (INFO) MainThread.<module> -> Predict validation data
+2025-11-09 23:44:04.140 (26016) (INFO) MainThread.<module> -> Predict testing data
+2025-11-09 23:44:04.977 (26016) (INFO) MainThread.PlotPrediction -> Plotting Prediction ...
+2025-11-09 23:44:04.977 (26016) (WARNING) MainThread.PlotPrediction -> The series to plot must be an integer in the range [0,8[. Setting it to 0
+2025-11-09 23:44:04.977 (26016) (WARNING) MainThread.PlotPrediction -> start must be an integer less than 7588. Setting it to 0
+2025-11-09 23:44:04.977 (26016) (WARNING) MainThread.PlotPrediction -> end must be an integer in the range ]0,7588[. Setting it to 7587

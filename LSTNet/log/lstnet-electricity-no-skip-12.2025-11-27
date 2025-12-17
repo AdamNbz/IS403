@@ -1,0 +1,5 @@
+2025-11-27 19:07:20.354 (2732) (INFO) MainThread.<module> -> Python version: 3.6.8 |Anaconda, Inc.| (default, Feb 21 2019, 18:30:04) [MSC v.1916 64 bit (AMD64)]
+2025-11-27 19:07:20.354 (2732) (INFO) MainThread.<module> -> Tensorflow version: 1.11.0
+2025-11-27 19:07:20.354 (2732) (INFO) MainThread.<module> -> Keras version: 2.1.6-tf ... Using tensorflow embedded keras
+2025-11-27 19:07:20.354 (2732) (ERROR) MainThread.__init__ -> Error opening data file ... [Errno 2] No such file or directory: 'data/electriciy.txt'
+2025-11-27 19:07:20.356 (2732) (CRITICAL) MainThread.<module> -> Could not load data!! Exiting
